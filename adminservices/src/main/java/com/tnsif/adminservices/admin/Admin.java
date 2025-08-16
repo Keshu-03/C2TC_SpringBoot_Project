@@ -1,7 +1,4 @@
 package com.tnsif.adminservices.admin;
-
-
-	
 	import com.tnsif.adminservices.role.Role;
 
 	import jakarta.persistence.Column;
